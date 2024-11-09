@@ -27,6 +27,8 @@ Esse projeto simula uma lista de contatos no estilo WhatsApp, onde cada contato 
     Classe que define as propriedades de cada usuário: foto, nome e mensagem.
     Construtor: Inicializa essas propriedades para cada objeto Usuario.
     Getters e Setters: Métodos para acessar e modificar os dados de cada propriedade.
+   
+5. RecyclerItemClickListener: Essa classe foi pega do próprio google, não se preocupe como foi criado. Essa é uma das formas de colocar o click em itens da recyclerview
 
 Explicação Geral
 
